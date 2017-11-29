@@ -1,0 +1,10 @@
+.footer{
+  display: flex;
+}
+.containercopyright{
+  width: 70%;
+}
+.containerimg{
+  width: 30%;
+
+}
